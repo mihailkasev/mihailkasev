@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mihail!
+#👋 Hi, I'm Mihail!
 
 - 🔭 I’m currently searching for a job
 - 🌱 I’m currently learning async programming on python
@@ -7,4 +7,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: by email kasevmihail9@gmail.com or Telegram @whatsupdoggy
 
-### 🛠 My badge area
+# 🛠 My badge area
