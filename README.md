@@ -2,8 +2,6 @@
 # 👋 Hi, I'm Mihail!
 
 - 🔭 I’m currently searching for a job
-- 🌱 I’m currently learning async programming on python
-- 🐱 I love pet-projects. They help me grow professionally all my life.
 - 📫 How to reach me: by email kasevmihail9@gmail.com or Telegram [@whatsupdoggy](https://t.me/whatsupdoggy)
 
 # 🛠 My badge area
