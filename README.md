@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mihail!
 
-- 🔭 I’m currently searching for a job
+- 🔭 I’m currently working as a backend developer!
 - 📫 How to reach me: by email kasevmihail9@gmail.com or Telegram [@whatsupdoggy](https://t.me/whatsupdoggy)
 
 # 🛠 My badge area
